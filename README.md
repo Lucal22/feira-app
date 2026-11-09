@@ -2,14 +2,14 @@
 
 App que permite a criação e gerenciamento de feiras.
 
-# Stack
+## Stack
 
-## Backend
+### Backend
 
 - Java
 - Spring
 - MySQL
 
-## Frontend
+### Frontend
 
 - Next.js
